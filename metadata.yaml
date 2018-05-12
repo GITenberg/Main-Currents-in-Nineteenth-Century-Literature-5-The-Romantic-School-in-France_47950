@@ -1,4 +1,5 @@
 _repo: Main-Currents-in-Nineteenth-Century-Literature-5-The-Romantic-School-in-France_47950
+_version: 0.1.0
 contributor:
   translators:
   - agent_name: Morison, Mary
@@ -7,6 +8,9 @@ contributor:
   - agent_name: White, Diana
     gutenberg_agent_id: '44423'
     url: http://www.gutenberg.org/2009/agents/44423
+covers:
+- cover_type: archival
+  image_path: 47950-h/images/cover.jpg
 creator:
   author:
     agent_name: Brandes, Georg
@@ -20,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2674
     wikipedia: http://en.wikipedia.org/wiki/Georg_Brandes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47950#Main-Currents-in-Nineteenth-Century-Literature-5-The-Romantic-School-in-France
 gutenberg_issued: '2015-01-12'
 gutenberg_type: Text
 identifiers:
